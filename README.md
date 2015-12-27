@@ -4,7 +4,7 @@ Beta version.
 
 To Do:
 - Test with IR-transmitter and reciever
-- Add LED
+- Add LED support
 - Clean up unused entries in code
 - Field testing
 - Figure out why channel C5 won't lock
