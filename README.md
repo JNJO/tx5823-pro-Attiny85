@@ -3,7 +3,9 @@ Mod of Shea Ivey's TX5823-pro project ( https://github.com/sheaivey/tx5823-pro )
 Beta version.
 
 To Do:
--Test with IR-transmitter and reciever
--Add LED
--Clean up unused entries in code
--Field testing
+- Test with IR-transmitter and reciever
+- Add LED
+- Clean up unused entries in code
+- Field testing
+- Figure out why channel C5 won't lock
+- Figure out why channel changes even if bind pin is low
