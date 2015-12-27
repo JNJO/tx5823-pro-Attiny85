@@ -3,6 +3,7 @@ Mod of Shea Ivey's TX5823-pro project ( https://github.com/sheaivey/tx5823-pro )
 Beta version.
 
 To Do:
+- Write a How-to for setting up and program the ATTiny85
 - Test with IR-transmitter and reciever
 - Add LED support
 - Clean up unused entries in code
